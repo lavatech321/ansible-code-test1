@@ -12,3 +12,9 @@ This repository contains automation code of below servers:
 * MySQL
 * NodeJs Application
 * Python Data Science project application
+
+```sh
+cd dillinger
+npm i
+node app
+```
